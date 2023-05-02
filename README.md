@@ -1,6 +1,6 @@
-# Meine Tibetreise. Erster Band.
+# Meine Tibetreise. Zweiter Band.
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/227038593-70eb63ab-9930-4783-aef3-4fac31ead594.jpg">
+<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/235768896-873dff4a-cec3-413a-92ed-eedb4ee8e632.jpg">
 
 This is a git repository of the source files for the book "Meine Tibetreise von Dr. Albert Tafel. Erster Band."
 
@@ -22,5 +22,5 @@ native copyright terms that apply the rule of the shorter term to foreign works.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
-Meine Tibetreise. Erster Band. [Digital Archive of Toyo Bunko Rare Books](http://dsr.nii.ac.jp/toyobunko/VII-1-56/V-1/)
+Meine Tibetreise. Zweiter Band. [Digital Archive of Toyo Bunko Rare Books](http://dsr.nii.ac.jp/toyobunko/VII-1-56/V-2/)
 
