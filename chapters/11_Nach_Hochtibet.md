@@ -1490,7 +1490,7 @@ Bullen den besten Platz erkundet hatten, erkannte ich am Tage darauf, als ich
 selbst nach einer günstigen Übergangsstelle für meine Karawane ausschaute. Von
 diesem Flußübergang hatten mir die Yüchü-Tibeter berichtet und ihn „Tschü mar
 rab wden“ genannt, was auf deutsch „die sieben Furten über das rote Wasser“
-heißt (Tafel LXX des I. Bandes^[1133]^). In der Tat mußte ich hier über sieben größere
+heißt (Tafel LXX des I. Bandes^[^1133]^). In der Tat mußte ich hier über sieben größere
 Flußarme setzen. Deutlich war zu erkennen, daß erst wenige Tage vorher der
 Wasserstand ein viel höherer gewesen war. Bei allen den Flüssen in Hochtibet
 wechselt ja die Menge des Wassers in den Sommermonaten ungemein stark, Als ich
