@@ -412,7 +412,7 @@ aufstanden, mit Steinen nach ihm warfen und unsere Hundeschar auf ihn hetzten.
 Da machte er schleunigst kehrt und holte in raschem Trott Reineke und Isegrimm
 ein.
 
-Am 27, September erreichten wir endlich einen Einschnitt, eine ganz flache
+Am 27. September erreichten wir endlich einen Einschnitt, eine ganz flache
 Scheide (4870 m) im Zug des Marco-Polo-Gebirges‚ das sich von hier aus weiter
 nach Osten in nur wenig hohen Bergen fortsetzt. Wie ich später in Ts‘aidam
 erfuhr, war es der Tschüm tsi ng-Paß ([Tafel XI](#b040c)). Von hier aus führte nach Norden
@@ -1096,7 +1096,7 @@ Haut erhärtet, so wird der Lehm wieder entfernt. Diese Behälter sehen sehr
 unschön aus; solange aber die Außenseite trocken bleibt, halten sie sehr gut
 dicht und behalten auch die angenommene Form bei.
 
-Daß Lama dyi und sein Begleiter (Tafel XXV) — vom zweiten Tage an hielten sie es
+Daß Lama dyi und sein Begleiter ([Tafel XXV](ch004.xhtml#b120a)) — vom zweiten Tage an hielten sie es
 nur noch nötig, zu zweien zu sein — sehr „religiös“ waren, brauche ich kaum noch
 zu erwähnen. Auf dem Marsche wurde auch von ihnen unausgesetzt laut gebetet und
 jeden Abend bauten sie aus Erdschollen einen kleinen Altar, auf dem bei

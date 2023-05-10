@@ -417,7 +417,7 @@ Befehl ausgegeben, mit anbrechender Dunkelheit die Lagerfeuer zu löschen.
 
 Wir passierten am 5. August das breite Steppental dicht westlich dess Alang nor
 (Alak nor) ([Tafel I](#b016)). Am Seeufer zogen sich üppige Weiden hin, Sonst
-wechselten morastige Stellen, Platten mit 10—15f cm hohem Graswuchs und kiesige
+wechselten morastige Stellen, Platten mit 10—15 cm hohem Graswuchs und kiesige
 Geröllpartien. Um ein kleines Felshügelchen in der Mitte des Tales waren
 Sanddünen zusammengeweht, von deren dünnem Graswuchse ein schwacher, grüner
 Schimmer ausging. Nirgends aber zeigte sich kleinste Gesträuch. Tot schien die
@@ -793,7 +793,7 @@ Sandsteinhügelland‚ über noch gar manchen Quellbach des Hoang ho. Selbst die
 sonst so häufigen „wardo“ oder „tado“ (tab rdo) genannten, dreifußartig
 aufgestellten Steine, die Zeugen einer früheren Teekesselgemeinschaft, blieben
 nun aus. Um so mehr war aber diese Gegend von Wühlratten^[^1119]^ bevölkert und
-darum reich an Bären. Am 17, war ich kaum zwei Kilometer vom alten Lagerplatz
+darum reich an Bären. Am 17. war ich kaum zwei Kilometer vom alten Lagerplatz
 weitergezogen, da gelang es mir, einer alten Bärin aufzulauern und sie zur
 Strecke zu bringen, als sie eben eine Rattenfamilie ausgegraben und ihre
 Schnauze tief in dem Loch stecken hatte. Eine Stunde später — ich hatte mich
@@ -1006,7 +1006,7 @@ und so peinlich sauber in die Steinplatten ein, als gälte es nicht bloß, nachh
 eine auf die andere zu schichten, sondern öffentlich aller Welt zu zeigen, wer
 es am schönsten machen könne. Jahrzehnte haben seitdem mit Schnee und Eis daran
 weitergearbeitet und die grellen Farben bis auf wenige Spuren wieder
-herausgewaschen (Tafel VI).
+herausgewaschen ([Tafel VII](#b024b)).
 
 Als mein Tsch‘eng die Gebetplatten gesehen, schaute er täglich nach dem Yang tse
 kiang aus. Bei den Kuku nor-Tibetern ist nämlich die Sitte, solche mühsamen
@@ -1308,7 +1308,7 @@ Uferterrassen hindurch, ganz so, wie ich es zwei Jahre vorher beim Hoang ho im
 ngGolokh-Lande gesehen hatte. Auch hier fand sich ein relativ enges Längstal,
 aus dem links und rechts an die 1000 m hohe Bergketten emporragen, aus fast
 senkrecht aufgerichteten quarzaderreichen Sandstein- und Tonschieferbänken
-bestehend (Tafel VIII).
+bestehend ([Tafel VIII](#b024d)).
 
 Ich ritt sofort auf dem größten Pferde, das ich besaß, in den Fluß hinein, aber
 nach einigen Schritten schon hatte dieses den Grund unter den Füßen verloren.
