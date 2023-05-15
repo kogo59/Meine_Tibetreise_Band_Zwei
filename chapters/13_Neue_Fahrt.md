@@ -1780,7 +1780,7 @@ sicher bald kein Geld und kein Tier mehr besessen.
 ::::
 
 :::: { .wrap-80 }
-![Dre tschü-Yang tse kiang bei Dsehoma lhagan (Dergi).](Meine_Tibetreise_II_120f.jpg "Dre tschü-Yang tse kiang bei Dsehoma lhagan (Dergi)."){#b120f}
+![Dre tschü-Yang tse kiang bei Dschoma lhagan (Dergi).](Meine_Tibetreise_II_120f.jpg "Dre tschü-Yang tse kiang bei Dschoma lhagan (Dergi)."){#b120f}
 ::::
 
 Eine halbe Stunde weiter unten lag das Haus und das erste Dorf des Bon bo oder
@@ -1834,7 +1834,7 @@ waren. Die einzige Tochter meiner Wirte hatte nach auswärts geheiratet.
 Vom ersten Stockwerk stieg ich oft auf das ebene Dach, das auf allen Seiten
 durch eine dicke und hohe Brüstung aus Lehm und Steinen eingefaßt war. Dort oben
 stand noch der große Hausaltar, ein Bauwerk wie ein kleiner Ofen, in dem täglich
-den Göttern Wacholder verbrannt wurde (Tafel XLIII). An krummen Stecken
+den Göttern Wacholder verbrannt wurde ([Tafel XLIII](ch005.xhtml##b184d). An krummen Stecken
 flatterten fromme Sprüche und Beschwörungen zur Abwehr böser Geister im Wind und
 zur Verteidigung gegen menschliche Feinde lagen Haufen von Kieseln bereit, die
 im Bedarfsfalle teils mit der Hand, teils mit der Schleuder auf den Angreifer
