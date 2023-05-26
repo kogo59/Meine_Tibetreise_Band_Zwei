@@ -1868,7 +1868,7 @@ pan-Mohammedaner, Die Treiber waren aus Khorgan. Es waren wieder echte,
 schlechte ngGolokh.
 
 Nach zwei Stunden kamen wir an den kleinen Ort Karlang, wo breitspurig acht
-Häuser stehen. Unweit davon liegt linker Hand das bescheidene BönboKloster Kang
+Häuser stehen. Unweit davon liegt linker Hand das bescheidene Bönbo-Kloster Kang
 mer gomba. Auch auf dem jenseitigen linken Ufer zogen sich noch ein paar Höfe
 und einige Gerstenfelder hin. Das andere Ufer war aber inzwischen schon viel
 baumärmer geworden. Später wurde der Talgrund offener, die Talhänge flacher, der
