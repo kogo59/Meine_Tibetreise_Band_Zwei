@@ -395,7 +395,7 @@ Seine Kopfhaare waren sicher einen halben Monat nicht mehr rasiert; im Gesicht
 nahm ich Pockennarben wahr; Tobden Dalai Lama gehört keineswegs zu den nach
 unserem Geschmack schönen Tibetanern. Bei allen seinen Anhängern sind seine
 schwarzen Augenbrauen berühmt, die groß und schön geschwungen sein sollen, doch
-sind sie mir nicht als etwas so Besonderes in die Augen gefallen,
+sind sie mir nicht als etwas so Besonderes in die Augen gefallen.
 
 Während ich mich mit Verbeugungen näherte, setzte sich der Dalai Lama den
 gelben, spitzen Priesterhelm auf den Kopf, seine Lippen aber blieben stumm. Er
@@ -850,8 +850,8 @@ Am nächsten Tage brachte uns ein sechsstündiger Ritt über die Tala hinüber u
 in die Semenow-Ketten. Ein weiterer Marschtag ließ uns den OberJauf des Da ho
 ba-Flusses gewinnen und zwar da, wo dieses Wildwasser aus den Granitketten
 heraustritt und sich tief in Geschiebemassen einzuschneiden beginnt. Die
-Temperatur hielt sich auch am Tage in der Sonne unter — 10°; die Nacht hatte bis
-— 33°. Selbst die andauernde Nachtkälte. hatte es aber nicht vermocht, den Da ho
+Temperatur hielt sich auch am Tage in der Sonne unter —10°; die Nacht hatte bis
+—33°. Selbst die andauernde Nachtkälte. hatte es aber nicht vermocht, den Da ho
 ba-Fluß ganz in Eisfesseln zu schlagen. Die Mitte des Flusses war eisfrei und
 der Ritt über das Ufereis, dann durch die Strudel und wieder auf den
 jenseitigen. Uferrand hinauf gestaltete sich sehr unangenehm. Alle Tiere mußten
@@ -1354,14 +1354,15 @@ beim Häuptling für die Kost die Schafe hütete. Ich gab ihm den Auftrag, den
 Alten in seinem Heim aufzusuchen und mir noch einige Schafe zu erstehen. Aber
 dieses Mal durfte er das Zelt seines Bekannten nicht betreten, da dieser erst
 ganz kurz vorher, als er auf dem linken Hoang ho-Ufer wohnte, seinen Sohn
-verloren hatte. Nach der Aussetzung (Tafel LIX) der nackten Leiche war die
-Familie mit ihren Verwandten rasch mit Herden und Zelten und einigen Lama auf
-das rechte Hoang ho-Ufer übergesiedelt. Die Lama waren noch damit beschäftigt,
-Beschwörungsmessen für oder gegen den Geist des Toten zu lesen und deshalb
-wollten die geängstigten Leute keinem Chinesen oder Fremden Zutritt gewähren.
-Wir konnten auch in den Nachbarzelten unseren Fleischvorrat nicht vermehren,
-weil es Verwandte waren. Solange gebetet wird, wollten, alle Angehörigen weder
-für sich ein Tier schlachten, noch etwas verkaufen oder vertauschen.
+verloren hatte. Nach der Aussetzung ([Tafel LIX](ch006.xhtml#b240d)) der nackten
+Leiche war die Familie mit ihren Verwandten rasch mit Herden und Zelten und
+einigen Lama auf das rechte Hoang ho-Ufer übergesiedelt. Die Lama waren noch
+damit beschäftigt, Beschwörungsmessen für oder gegen den Geist des Toten zu
+lesen und deshalb wollten die geängstigten Leute keinem Chinesen oder Fremden
+Zutritt gewähren. Wir konnten auch in den Nachbarzelten unseren Fleischvorrat
+nicht vermehren, weil es Verwandte waren. Solange gebetet wird, wollten, alle
+Angehörigen weder für sich ein Tier schlachten, noch etwas verkaufen oder
+vertauschen.
 
 Wegen der Nähe dieser Zelte fürchteten die Tschendu-Leute noch nichts für die
 Nacht; sie öffneten Branntweinfäßchen, die sie von Dankar mitgebracht hatten,
@@ -1444,7 +1445,7 @@ von über Fußtiefe. Es war auch in jenen Tagen immer sehr dunstig. Die Fernsich
 war so beschränkt, daß man häufig wenig über 1 km weit sehen konnte. Der
 Westwind hatte jetzt erheblich an Stärke verloren und damit hatten wir auch
 nicht mehr so viel unter Kälte zu leiden. Doch sank bei Nacht das Thermometer
-stets bis mindestens — 26°.
+stets bis mindestens —26°.
 
 Am 11. Februar hatten wir auf unserer Route einen 2 km breiten und sehr hohen
 und steilen Moränenwall zu queren, aus dem zwischen rötlichen, lockeren Sanden
@@ -1834,7 +1835,7 @@ waren. Die einzige Tochter meiner Wirte hatte nach auswärts geheiratet.
 Vom ersten Stockwerk stieg ich oft auf das ebene Dach, das auf allen Seiten
 durch eine dicke und hohe Brüstung aus Lehm und Steinen eingefaßt war. Dort oben
 stand noch der große Hausaltar, ein Bauwerk wie ein kleiner Ofen, in dem täglich
-den Göttern Wacholder verbrannt wurde ([Tafel XLIII](ch005.xhtml##b184d). An krummen Stecken
+den Göttern Wacholder verbrannt wurde ([Tafel XLIII](ch005.xhtml#b184d). An krummen Stecken
 flatterten fromme Sprüche und Beschwörungen zur Abwehr böser Geister im Wind und
 zur Verteidigung gegen menschliche Feinde lagen Haufen von Kieseln bereit, die
 im Bedarfsfalle teils mit der Hand, teils mit der Schleuder auf den Angreifer

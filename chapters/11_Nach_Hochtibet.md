@@ -1244,7 +1244,7 @@ mißverstanden, streichen sich noch heute die H‘ui h‘ui beim Beten mit der H
 
 Über eine Woche zog ich in dem Tale abwärts. Bald zwängte sich das Flüßchen in
 einer engen und schmalen Felsklamm zwischen den Sandsteinbergen hindurch, bald
-zog es breit eine kleine Strecke vor einer der vielen parallelen, immer WNW—0SO
+zog es breit eine kleine Strecke vor einer der vielen parallelen, immer WNW—OSO
 streichenden Bergketten entlang weiter. Je tiefer ich kam, desto höher und in
 desto schöneren Formen erhoben sich tief zerlegte Gipfel aus unserem Tale, desto
 hübscher und menschenwürdiger wurde das unbewohnte Land um uns her. Die Tage

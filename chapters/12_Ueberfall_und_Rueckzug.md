@@ -1912,7 +1912,7 @@ ein und schneeweiße Schollen schaukeln auf seiner windgepeitschten Mitte. Am
 Nordufer steht neben einer Quelle eine alte mongolische Befestigung. An seiner
 Ostseite sitzen heute die Duchu-Tiheter in 2 Gemeinden, Duchu goma und Duchu
 chima, mit 140 Familien in Zelten; sie grenzen weiter im Osten an die
-Tschebts‘a,
+Tschebts‘a.
 
 Mit der Dunkelheit ritten wir in einem Yurtendorf ein, wo die Meute uns fast von
 den Pferden riß. Wir hatten die kleine Gemeinde des Hartschiu (Kharatschut)
@@ -1952,7 +1952,7 @@ weil er ohne Unterlaß mich anbettelte und sich mit großer Beredsamkeit als den
 &nbsp;4. November. Am Morgen blieb es lange unentschieden, ob die Dolmetscher
 weiterreisen würden oder nicht; sie fanden einen Streit zum Schlichten und
 hofften auf größeren Verdienst. Wann sie weiterzögen, war nicht abzusehen. Ich
-beschloß daher um Mittag, allein mit meinen Leuten nach Dankar zu reiten,
+beschloß daher um Mittag, allein mit meinen Leuten nach Dankar zu reiten.
 
 Als wir sattelten, traten zwei junge Tibeter auf mich zu und baten, ihnen das
 zuletzt gekaufte Pferd abzugeben oder, wenn ich es nicht verkaufen wolle,

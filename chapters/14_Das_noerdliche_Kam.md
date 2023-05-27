@@ -37,7 +37,7 @@ Khadar in den Händen auf mich zu. Sie hatten die in K‘am üblichen Schuhe mit
 hohen, Weichen, roten Schäften an den Füßen, waren in schmierige, fransige
 Pelzmäntel gehüllt und ihr Haar war lang, wirr und wie ihr ganzes Äußere
 ungepflegt. Ich sah vor mir zwei Honoratioren von Dscherku ndo ([Tafel
-XXII](ch003.xhtml#b113b)), die sich freundlichst und angelegentlichst nach dem
+XXII](ch004.xhtml#b113b)), die sich freundlichst und angelegentlichst nach dem
 Verlauf meiner Reise erkundigten. Sie versprachen mir für die Dauer meines
 Aufenthalts Frieden und Freundschaft. Kaum, daß die beiden sich empfohlen
 hatten, bewillkommneten mich sechs Schen si-Chinesen, Kaufleute, die der
@@ -1576,7 +1576,7 @@ für 14&nbsp;000 Mark Moschus und Goldstaub trugen^[^1424]^.
 Auf einem zweiten Paß, der kaum niedriger als der erste war, überraschte mich am
 späten Nachmittag ein heftiges Schneegewitter, das die Tiere so vollkommen
 auspumpte, daß ich gezwungen war, mitten im tiefsten Schnee die Lasten
-abzubinden und zu rasten. Mittags zeigte das Thermometer —2° nachts — 6°. Da ich
+abzubinden und zu rasten. Mittags zeigte das Thermometer —2° nachts —6°. Da ich
 keinen Wintermantel mehr besaß, war die Nacht wenig angenehm. Mit knapper Not
 brachten wir am folgenden Morgen die schwachen Skelette der Tiere ins Kloster
 Tschoktsen. Die tibetischen Handelsleute mit ihren ausgeruhten Pferden hatten
@@ -2192,7 +2192,7 @@ Zinken und Zackengrate des Itore und heiligen Kalo re und anderer wildzerzauster
 Felsgipfel, die mit alpiner Pracht, mit schimmernden Firnfeldern und blauem
 Gletschereis das Dsa tschü-Tal im Süden einsäumen. In der halben Höhe dieser
 Berge zeigten sich Waldschluchten und davor breiteten sich die eben keimenden
-Felder und die reinlich weiß getünchten Häusergruppen der Bauern aus ([TafelXXXIX](#b176c)).
+Felder und die reinlich weiß getünchten Häusergruppen der Bauern aus ([Tafel XXXIX](#b176c)).
 
 Da ich durch Leutnant Lu in Puilung eingeführt wurde, so waren alle Dörfler
 äußerst zuvorkommend gegen mich. Jeder meiner Wünsche wurde mit einem demütig
@@ -2470,14 +2470,14 @@ Abenteuer in den albanesischen Hausburgen.
 Der Kult der Götter und Geister nimmt auch in Gendu einen sehr breiten Raum ein.
 Neben kleinen Weihrauchöfchen, die sich einzelne Knechte und die Kinder gebaut
 hatten, stand auf der Veranda vor meinem Zimmer ein großer Lehmofen, in der Form
-an eine Tope erinnernd, in dem ein alter Hauslama Wacholder brannte (Tafel XL).
-Auf dem Dache flatterten Gebetsfahnen an vielen Masten. Über dem Hauseingang
-hingen die Symbole und Zeichen der großen lamaistischen Schutzgeister, grinste
-die Fratze einer scheußlichen Lhamo, pendelten im Winde Lanzenspitzen und
-Dolche, Bannsprüche, mit Stroh vollgestopfte Bälge von Hasen, Wildschweinen und
-Wildhühnern. Auf der Treppe wie am Eingang hingen und standen Stein- und
-Holzplatten mit eingekratzten Gebeten. Gebetmühlen von 1 m Höhe zogen sich am
-Treppengeländer entlang, die jeder in Schwung brachte, der hier auf- und
+an eine Tope erinnernd, in dem ein alter Hauslama Wacholder brannte ([Tafel
+XL](#b176d)). Auf dem Dache flatterten Gebetsfahnen an vielen Masten. Über dem
+Hauseingang hingen die Symbole und Zeichen der großen lamaistischen
+Schutzgeister, grinste die Fratze einer scheußlichen Lhamo, pendelten im Winde
+Lanzenspitzen und Dolche, Bannsprüche, mit Stroh vollgestopfte Bälge von Hasen,
+Wildschweinen und Wildhühnern. Auf der Treppe wie am Eingang hingen und standen
+Stein- und Holzplatten mit eingekratzten Gebeten. Gebetmühlen von 1 m Höhe zogen
+sich am Treppengeländer entlang, die jeder in Schwung brachte, der hier auf- und
 abstieg. In den spinnweberfüllten Nischen standen da und dort große
 Lehm-Ts’ats'a und in den pechschwarzen Ecken baumelten mit Gebeten beschriebene
 Kinnbacken und von alten treuen Haustieren ausgeraufte Mähnenhaare.

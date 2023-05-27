@@ -881,9 +881,9 @@ Der Mittag und Nachmittag des 3. September blieb vom herrlichsten Wetter
 begünstigt. Es war windstill in der Steppe und mollig. Nur wenige Haufenwolken
 schwebten langsam auf und ab wogend aus Westen her, und auch der Monsunwind, der
 sich unter der westöstlichen Oberströmung zu erkennen gab, brachte nur seltene
-Wolken aus dem fernen Tiefland herauf. Die Maximaltemperatur betrug + 13,2° und
+Wolken aus dem fernen Tiefland herauf. Die Maximaltemperatur betrug +13,2° und
 kam — wie meist — um drei Uhr mittags zustande; um diese Zeit hatte das Hoang
-ho-Wasser 10,6° Meine Begleiter saßen mit nacktem ÖOberkörper am Waka und
+ho-Wasser 10,6°. Meine Begleiter saßen mit nacktem ÖOberkörper am Waka und
 genossen die herrliche Sonnenbestrahlung. Mit den Klosterleuten gab es gegen
 Abend etwas Verkehr. Mit dem Abt (T‘sche ba) tauschte ich einen Khädar und
 Geschenke. Man hatte ihm gesagt, ein höherer chinesischer Mandarin sei
@@ -1263,10 +1263,10 @@ Kreuz herabhängendes Rückengehänge. An ihr Schläfenhaar und die daraus
 geflochtenen Zöpfchen wird links und rechts je eine zu einem festen Ring
 geschliffene Muschel oder ein mit roten Korallen eingelegter Bronzering
 angebunden, und die beiderseitigen Ringe werden durch ein Tuch verbunden, das
-bei Reichen mit Messingschalen und Korallen besetzt ist (s. Abb. 15). Das
-Scheitelhaar aber wird zu einem dicken Maschengitter verflochten und auf ein 10
-cm breites Lederstück aufgezogen, das in der Mitte des Rückens herabläuft und
-unten mit vielen Messingknöpfchen verziert wird.
+bei Reichen mit Messingschalen und Korallen besetzt ist (s. [Abb.
+15](ch008.xhtml#b323)). Das Scheitelhaar aber wird zu einem dicken Maschengitter
+verflochten und auf ein 10 cm breites Lederstück aufgezogen, das in der Mitte
+des Rückens herabläuft und unten mit vielen Messingknöpfchen verziert wird.
 
 Um Mittag tauchte auf der linken Wong tschü-Seite das große Gelugba-Kloster Gaser
 gomba auf, von Chinesen auch schlechthin Gawo se oder Gomba se genannt ([Tafel
@@ -1657,7 +1657,7 @@ Die tibetische Wirtschaft ist auch in Amdo in eine seßhafte Feldwirtschaft und
 eine nomadisierende Viehwirtschaft geteilt, doch überwiegen die Ackerbauern.
 Während das Weideland der Nomaden Gemeingut des Stammes ist, haben die
 Ackerbauern, die Dörfler, ihre Felder wieder in Privatbesitz oder sind
-wenigstens „gonyog‘‘, Halbbauern, Pächter von Klostergütern. In den zahllosen
+wenigstens „gonyog“, Halbbauern, Pächter von Klostergütern. In den zahllosen
 Tälern und Tälchen sieht man Bewässerungsgräben. Wälder sind selten. Der Mensch
 hat sie vor langen Zeiten schon abgebrannt und auf die kleinen, heute noch
 erhaltenen Parzellen beschränkt, um Weideland zu gewinnen. Weite Strecken Amdos
@@ -2150,7 +2150,7 @@ Winterlagern des Läwa-Stammes:
 :::: fs-xs
 „Mais qu’importait le froid? nos affaires n’allaient-elles pas admirablement?
 pas la moindre difficulte, des gens d’abord assez reserve, mais simples et en
-somme accueillants, Et c’6taient li ces fameux bandits ä la renomm6e sinistre!
+somme accueillants, Et c’etaient li ces fameux bandits ä la renomm6e sinistre!
 „Vraiment!“ s’ecrie l’un d’entre nous, ‚c’est trop facile de passer ici! ceux
 qui ont ete attaques par les Tibetains ont dü le faire expres‘. L’imprudent!
 savait-il pas que le joueur heureux ne doit jamais jamais proclamer sa chance,

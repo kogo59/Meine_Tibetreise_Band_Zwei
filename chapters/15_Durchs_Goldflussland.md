@@ -372,7 +372,7 @@ zieht, ging — fast möchte ich behaupten — in der Art dieser Hängebrücke w
 Dabei blieb die Szenerie andauernd großzügig und herrlich ([Tafel L](#b216c)). Zu beiden
 Seiten des spitz eingeschnittenen Erosionstales stiegen die Berge, die Felsen
 und Wälder als gewaltig wuchtige Mauern empor, als wollten sie oben am Himmel
-über mir zusammenschlagen ([Tafel LII](b216f)). Dann und wann brachten kleine
+über mir zusammenschlagen ([Tafel LII](#b216f)). Dann und wann brachten kleine
 Talerweiterungen, eine Siedlung und kleine Ackeranlagen etwas Abwechslung.
 Einige Dörfer an den steilen Berglehnen zeigten zahlreiche „tiao“, Steintürme,
 die aus den langen Kriegszeiten der Alteingesessenen mit den Chinesen stammten
@@ -2082,7 +2082,7 @@ hätten wir in den Alltag eines kleinen Ameisenstaats gerührt, so lief und
 krabbelte es wieder aus den niederen schwarzen Zelthäusern, scheuchte die
 Wiederkäuer auf, trieb die Pferde zusammen und zwei Reiter sprengten auf uns
 Ruhestörer zu, um sich über unsere Zahl zu vergewissern und nachzuforschen, was
-unser Begehr sel.
+unser Begehr sei.
 
 Auch die Gemeinde Ober-Zangskar untersteht noch dem Somo-König als oberstem
 Lehensfürst. In der großen Yurte wohnte als eine Art Be hu der Gechi Rembodyi,
