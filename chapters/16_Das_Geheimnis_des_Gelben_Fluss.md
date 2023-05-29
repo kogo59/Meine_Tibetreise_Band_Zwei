@@ -278,7 +278,7 @@ geschützt war.
 
 Beim Shopping erfuhr ich ganz zufällig in einem Laden, daß sich außer mir noch
 ein Europäer in der Stadt aufhalte. Vor einigen Tagen war Mons. Dury, Priester
-der Missions étrangères , in das seiner Mission gehörige Haus eingezogen. Bei
+der Missions étrangères, in das seiner Mission gehörige Haus eingezogen. Bei
 meinem Besuche fand ich den überaus liebenswürdigen Franzosen ganz allein mit
 einem chinesischen Christen als Diener. Seine Mission besaß in Sung pan ein
 altes einstöckiges Chinesenhaus und hatte im Hintergrund des langen Freihofs das
@@ -963,7 +963,7 @@ spielen wie die Buddha.
 Die Gegend um die große Kehre des Ho ang ho ist erstaunlich wildarm. Selten
 einmal erblickte ich in der Ferne an einem Berghang eine feingliedrige
 Dserenantilope, nie aber sah ich auf dieser ganzen Reise die Spur eines Kyang
-(Equus hemionus) , als ob diese Tiere auf der rechten Seite des Gelben Flusses
+(Equus hemionus), als ob diese Tiere auf der rechten Seite des Gelben Flusses
 seit langer Zeit schon ausgerottet wären. Von Bären soll hier noch der schwarze
 Ursus tibetanus vertreten sein. Hasen und Murmeltiere neben einigen Wildhühnern
 und Fasanen waren das einzige, was häufiger über den Weg lief. Während der
@@ -1714,10 +1714,10 @@ angesehen wird, da doch ringsum Platz in Hülle und Fülle vorhanden ist und die
 Mehrzahl der Schlächter, Krämer und Handwerker mit einem Betriebskapital von
 20—60 Tael arbeitet. Die Mohammedaner und Chinesen fühlen sich namentlich auch
 dadurch stark bedrückt, daß die Tibeter ihnen nicht gestatten, ihre Toten in der
-Erde zu beerdigen , sondern sie zwingen wollen, die Gestorbenen dem Tierfraß
+Erde zu beerdigen, sondern sie zwingen wollen, die Gestorbenen dem Tierfraß
 auszusetzen. Insgeheim und bei Nacht nur wagen die fremden Kaufleute ihre
 Angehörigen zu verscharren. Würde nicht ein so besonders profitliches Geschäft
-dabei herausspringen, so würden die Händler gerne das Feld räumen , denn kein
+dabei herausspringen, so würden die Händler gerne das Feld räumen, denn kein
 Mandarin wagt mit gleicher Härte vorzugehen wie die Äbte von Labrang und die
 Lama seiner Diözese.
 

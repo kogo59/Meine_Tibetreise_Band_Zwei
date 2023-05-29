@@ -1533,7 +1533,7 @@ zusammen den Gott des Kuku nor anzubeten.
 
 Es ist ein gar bewegtes und aufreibendes Leben, das der Fürst führt, aber
 trotzdem machte er einen geradezu weichlichen Eindruck auf mich, der sich durch
-seine auffallend weiße Hautfarbe — er war heller als ich — noch ver- stärkte.
+seine auffallend weiße Hautfarbe — er war heller als ich — noch verstärkte.
 Ich hatte ihn deshalb zuerst in dem falschen Verdacht, daß er Opiumraucher sei.
 Er war ein gemütlicher Unterhalter, der langsam und behäbig seine Worte setzte
 und dabei fortwährend — wie die vornehmen Chinesen es zu tun pflegen — zwei

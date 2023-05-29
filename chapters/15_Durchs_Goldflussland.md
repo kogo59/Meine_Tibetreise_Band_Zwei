@@ -843,7 +843,7 @@ bekommen, es roden und Tokdamba werden. Er bleibt aber weit weniger angesehen
 und nur selten heiratet ein Tschralba die Tochter eines Gonag-Abkömmlings.
 
 Sind schon in den Ländern der Reguli des Yü schu, von Dergi u. a. m. die älteren
-Lamasekten , die Nimaba, Karmaba, Saskyaba noch in großer Blüte — mit Ausnahme
+Lamasekten, die Nimaba, Karmaba, Saskyaba noch in großer Blüte — mit Ausnahme
 der Horba-Staaten, in denen auch durch die Kuku nor-Mongolen des Guschri Khan
 den Gelugba zur Herrschaft verholfen wurde —, so ist ein großer Teil der
 rDyarong-Herrschaften sogar noch konservativer geblieben und hält am alten
@@ -857,7 +857,7 @@ und Scharen von Pilgern zieht er jährlich an, die ihn links oder auch rechts
 herum wie Gelugba umkreisen. Kaiser Kien lung — von den Tibetern Dyam yang
 Gongma tschiembo genannt — hat in den durch den großen Krieg unterworfenen
 Gebieten die Bönbo-Klöster, vor allem das Kloster Yung dschung lha sden in
-Gelugba-Heiligtümer um- gewandelt. Er erst hat dieser Sekte hier Ansehen
+Gelugba-Heiligtümer umgewandelt. Er erst hat dieser Sekte hier Ansehen
 verschafft. Die Chinesen machten Yung dschung Iha sden (chin.: Kwan hoa se) auch
 zum Sitz eines Kambo-Oberabtes und geistlichen Vorstehers des Landes. Dieser
 wird alle drei Jahre von dem dGaldan-Kloster in Lhasa ausgeschickt und hat alle
@@ -2025,7 +2025,7 @@ dichten Busch kommen, aber nicht zu Wald. Ehe sich der Mensch in den tibetischen
 Höhen breit machte, reichte sicher der zusammenhängende Urwald viel höher hinauf
 als heute. Das Land wird im Urzustande einen ganz anderen Charakter gezeigt
 haben und mag allein deswegen schon ein feuchteres Klima gehabt haben. Wer die
-Hochstämme am Tschürnong tschü (Bd. I, Tafel LXII) betrachtet , wer die
+Hochstämme am Tschürnong tschü (Bd. I, Tafel LXII) betrachtet, wer die
 einzelnen alten Tannen im Süd-Kuku nor-Gebirge gefunden hat, die dort noch in
 verborgenen Schluchten sich erhalten haben, wird wohl mit mir übereinstimmen
 können, daß die Wahrscheinlichkeit sehr groß ist, daß selbst dort in nicht allzu
@@ -2795,7 +2795,7 @@ den Eingang ins feste Darro-Steinhaus frei. Es lag mir viel daran, das
 schützende Dach dieses Hauses und seine dicken Steinmauern über und um uns alle
 zu wissen, denn die armen Fußmilizen‚ die unterwegs zum größten Teil fußkrank
 geworden waren, machten jetzt einen noch viel elenderen Eindruck als am
-Versammlungsplatz in Mao niu gu; ich wollte alles aufbieten , sie nicht
+Versammlungsplatz in Mao niu gu; ich wollte alles aufbieten, sie nicht
 öffentlich sichtbar zu machen. Im großen Küchenraum kampierten an diesem Abend
 die Milizen, im Vorraum des großen Saals breiteten sich die Ma tui aus, im
 dritten Stock fand Ma san ye mit seinem Diener und Neffen in einer Art

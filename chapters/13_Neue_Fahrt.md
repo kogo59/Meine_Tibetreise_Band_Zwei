@@ -1274,7 +1274,7 @@ eisernen Kochkesseln. Tee kommt in das südliche und zentrale Tibet nie über
 Kansu. Mit den in Lan tschou fu und Hsi ngan fu gepreßten Teeziegeln wird nur
 der Kuku nor und Turkistan versorgt. Aus den Lasten bauten sie in einem großen
 Kreis in Abständen von 50—100 m kleine Mauern. Diese standen wie kleine Forts um
-den weiten Platz in der Mitte, auf dem am Abend an langen ; Stricken die sechs-
+den weiten Platz in der Mitte, auf dem am Abend an langen; Stricken die sechs-
 bis siebenhundert tintenschwarzen Yak angebunden wurden. Auch mehrere kostbare
 Maultiere und schwarze Eselhengste hatten die Leute in Kan su gekauft; die
 letzteren waren sorgsam in dicke Filzmäntel eingenäht, die nur die Beine und die
@@ -1870,7 +1870,7 @@ Die Männer und Frauen, die hier in den niederen schmutzigen Hütten wie in
 Löchern hausen, sind von auffallend kleiner und untersetzter Gestalt und haben
 ein Aussehen, daß man unwillkürlich Inzucht vermutet. Klein sind auch die
 wenigen Kühe, die sie in ihren Wohnungen halten, winzig klein die Esel, das
-hauptsächlichste Lasttier der Bauern (75 cm Widerristhöhe) , klein (1,20—1,25 m)
+hauptsächlichste Lasttier der Bauern (75 cm Widerristhöhe), klein (1,20—1,25 m)
 die eingeborenen Pferde und die einheimischen Maultiere. Alles ist hier
 kümmerlich und ein tiefer Ernst scheint mir auch diese Menschen niederzudrücken.
 Die Natur hat sich gegen sie verschworen.

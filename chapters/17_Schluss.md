@@ -66,7 +66,7 @@ seinen Höhen von 2800—3100 m gewonnen hat. Erst hinter diesem stellt sich auc
 der Löß wieder mit großer Mächtigkeit ein und beginnen bevölkerte Gegenden.
 
 :::: { .wrap-80 }
-![Abb. 15a. Haartracht und Rückengehänge der Ts’aner und Tschebts‘a - Nomadenfrauen (zu Band I, S. 271).](Meine_Tibetreise_II_323.jpg "Abb. 15a. Haartracht und Rückengehänge der Ts’aner und Tschebts‘a - Nomadenfrauen."){#b323}
+![Abb. 15a. Haartracht und Rückengehänge der Ts’aner und Tschebts‘a — Nomadenfrauen (zu Band I, S. 271).](Meine_Tibetreise_II_323.jpg "Abb. 15a. Haartracht und Rückengehänge der Ts’aner und Tschebts‘a — Nomadenfrauen."){#b323}
 ::::
 
 :::: { .wrap-80 }
@@ -220,7 +220,7 @@ gekommen.
 
 Dem breiten, fruchtbaren Tale des Hsi ho folgend, reist man von Ts‘in tschou
 zuerst einige Stunden lang zwischen Reisfeldern und Persimon-Bäumen, unter denen
-Mohn gezogen wurde — Ts‘in tschou war vor der Bekämpfung der Opium- pest ein
+Mohn gezogen wurde — Ts‘in tschou war vor der Bekämpfung der Opiumpest ein
 Zentrum der Opiumkultur — am Nachmittag setzten wir im Fährboot auf das
 nördliche Wei ho-Ufer (1120 m über dem Meer) über. Dem Laufe des Wei-Flusses
 folgt nur ein schlechter Fußpfad, der dem geringen Ortsverkehr dient. Die
@@ -358,8 +358,9 @@ Endlich waren meine Karren von Lan tschou fu angekommen und ich konnte weiter
 der Küste zu marschieren. Hsingan fu ist, von seiner Geschichte und dem Be ling
 abgesehen, keine Stadt, die zu langem Aufenthalt einladet. Die große Stadt mit
 300&nbsp;000—400&nbsp;000 Einwohnern liegt in einer waldlosen Ebene und hat
-keinerlei Kanalisation. Die Missionare klagten über große Hitze im
-Sommer; der Herbst und Winter aber bringt zuerst viel Regen und nassen Schnee, später Nordweststürme und alles durchdringenden Staub.
+keinerlei Kanalisation. Die Missionare klagten über große Hitze im Sommer; der
+Herbst und Winter aber bringt zuerst viel Regen und nassen Schnee, später
+Nordweststürme und alles durchdringenden Staub.
 
 Ich nahm mir von jetzt an vor, immer brav in der Nähe meiner Karren zu bleiben.
 Doch als sie in meinem Gasthaushof bepackt waren und langsam dem großen Osttor
@@ -408,7 +409,7 @@ eingebrochen, daß die Kisten ½ m unter Wasser geraten waren. Der Verkehr war
 fast ganz zum Stocken gekommen und zwei tote Maultiere lagen auf einem nahen
 Feld. Das ist die größte und älteste Staatsstraße in China, auf der seit drei
 oder vier oder noch mehr Jahrtausenden das rührige Handelsvolk des alten China
-seine Frachten befördert und seine Bedürfnisse verfrachtet , auf der alle alten
+seine Frachten befördert und seine Bedürfnisse verfrachtet, auf der alle alten
 Kaiser gereist sind, auf der Millionenwerte und Millionen von Menschen kommen
 und gehen.
 
@@ -435,7 +436,7 @@ Bedürfnissen! Die altmodische, barbarische Zeit, in der sie noch stecken, ist
 doch auch eine gute Zeit!
 
 :::: { .wrap-80 }
-![Abb. 16. Drei Ts’a ts‘a-Tonfiguren; rechts : Ts'a ts‘a der Bönbo von Karlong bei Sung pan ting; Mitte und links: Ts'a ts'a von Gelugba-Anhängern vom Kuku nor. <small>(Höhe der Originale 7,5 cm bzw. 9 urd 4 cm)</small>](Meine_Tibetreise_II_331.jpg "Abb. 16. Drei Ts’a ts‘a-Tonfiguren"){#b331}
+![Abb. 16. Drei Ts’a ts‘a-Tonfiguren; rechts: Ts'a ts‘a der Bönbo von Karlong bei Sung pan ting; Mitte und links: Ts'a ts'a von Gelugba-Anhängern vom Kuku nor. <small>(Höhe der Originale 7,5 cm bzw. 9 urd 4 cm)</small>](Meine_Tibetreise_II_331.jpg "Abb. 16. Drei Ts’a ts‘a-Tonfiguren"){#b331}
 ::::
 
 ## Tibetische Fabeln aus Kin tschuan.
@@ -495,7 +496,7 @@ uns muß aber als Schmaus dienen,“ sprach der Hase, „und der soll daran glau
 dessen Name am leichtesten von der Zunge läuft.“ So kamen sie überein, daß sich
 das Schwein (pak) opfern müsse. Hierauf sagte der Hase: „Ich werde jetzt das
 Schwein schlachten; Bruder Affe und Bruder Rabe, geht und holt im Walde Holz zum
-Feuer- machen und bringt den Herd in Ordnung. Als die beiden fortgegangen waren,
+Feuermachen und bringt den Herd in Ordnung. Als die beiden fortgegangen waren,
 riß der Hase dem Schwein den Schwanz aus, verkaufte aber den „Rest“ an den
 Chinesen. Den Schwanz steckte er in ein Loch in der Wand. Dann rief er
 zetermordio dem Affen und dem Raben: „Kommt, kommt und helft, das Schwein will
@@ -535,7 +536,7 @@ ins Gebirge, auf einen steilen, schmalen Pfad kamen. „Onkel Bär, nun ist der 
 gut, nun laufe schnell!“ sprach jetzt der Hase. Der Bär fing zu traben an, der
 Hase ließ ihn los, der Bär kam ab vom Pfad und rollte hilflos den Abhang
 hinunter. Im Sturze konnte er sich gerade noch mit den Zähnen an einer Wurzel
-fest- halten. „Onkel Bär, Onkel Bär, wo bist du denn,“ rief ihm der Hase nach.
+festhalten. „Onkel Bär, Onkel Bär, wo bist du denn,“ rief ihm der Hase nach.
 „Mm, mm,“ tönte es vom Bär herauf, der ja seinen Mund nicht öffnen konnte. „Sag
 nicht ‚mm‘, sag doch wenigstens ‚aa‘, daß ich es besser hören kann und dich
 finde,“ schrie der Hase. Da brüllte der Bär ‚aa‘, stürzte in den Abgrund hinab
@@ -553,7 +554,7 @@ wollte der Hase die Elster fangen und sie strafen. Die Elster aber flog immer
 flink auf den nächsten Baum und lachte dort den Hasen aus. Zuletzt lud der Hase
 die Elster feierlich zu einem Festschmause über zehn Tage ein, und sie schrieb
 ihm zurück: „Lieber Bruder Hase, mit Freuden nehme ich deine Einladung an.“ Sie
-kam auch zur festge- setzten Stunde und als Gastgeschenk brachte sie zwanzig
+kam auch zur festgesetzten Stunde und als Gastgeschenk brachte sie zwanzig
 Eier mit. Da sprach der Hase: „Die Eier sind eine sehr geringe Entschädigung für
 das viele Unheil, das du mir schon angerichtet hast. Ich wollte dich immer
 fangen und bestrafen, doch immer flogst du weg. Du mußt deshalb heute mit mir
@@ -566,9 +567,9 @@ Abend hast du im Kornfeld dem Bauern sein Korn weggefressen; doch lassen wir das
 Streiten, komm du morgen zu mir zum Schmaus.“ Und die Elster dachte bei sich,
 wie sie den Hasen hereinlegen könne, und sie legte ganz heimlich einen
 Fallstrick. Der Hase besuchte sie auf ihrer grünen Weide, und die Elster sagte
-dort: „Beim Wett- laufen habe ich’s verloren; heute wollen wir aber einmal um
+dort: „Beim Wettlaufen habe ich’s verloren; heute wollen wir aber einmal um
 die Wette hüpfen!“ Und sie hopste wieder und wieder vor dem Hasen her durch die
-Schlinge, bis der Hase ärger- lich ausrief: „Was willst du denn? Das kann ich
+Schlinge, bis der Hase ärgerlich ausrief: „Was willst du denn? Das kann ich
 auch!“ Dann fing er mit seinen langen Beinen zu hüpfen an, und schon hatte er
 sich in der Schlinge verfangen; der Strick legte sich ihm um den Hals, der Zweig
 fuhr in die Höhe, und zappelnd hing er da! Die Elster aber kreischte: „Ei, wie
@@ -634,7 +635,7 @@ sich um das Pferd, und der Wirt befahl: „Pferdchen, Pferdchen, strecke dich !�
 Da gehorchte das Pferd, und Silberstücke rollten auf den Boden. Der Wirt aber
 freute sich, rasch schaffte er das Pferd beiseite und stellte seinem Gaste ein
 anderes hin. Als heim. Wieder erwartete ihn die Mutter; er stellte das Pferd vor
-sie hin und sprach: „Pferdchen, Pferdchen, strecke dich!“ ; doch das Tier blieb
+sie hin und sprach: „Pferdchen, Pferdchen, strecke dich!“; doch das Tier blieb
 stocksteif stehen. Da schalt die Mutter noch viel schlimmer als das erste Mal
 und schlug ihn dafür, daß er abermals der bösen Elster getraut habe. Er aber
 wanderte zum dritten Male zu ihrem Hause. Dort klagte er, wie schlecht sich ihre
