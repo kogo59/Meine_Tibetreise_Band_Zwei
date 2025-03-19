@@ -1280,7 +1280,7 @@ waren aufgeblüht und die Knospen in den Laubwaldungen, die die Steilhänge
 Das Nachtminimum zeigte zwar noch —5° und darunter, aber bei Tage stiegen die
 Thermometer auf ebensoviele Grade über Null. Auf den schmalen Ackerstreifen
 tiefer unter im Tal pflügten die Ehepaare; widerwillig zogen zwei Yakochsen die
-schweren, klotzigen Yakenpflüge unter den wuchtigen Schlägen der jungen
+schweren, klotzigen Hakenpflüge unter den wuchtigen Schlägen der jungen
 kräftigen Ehefrauen.
 
 Nachdem wir an einigen Dörfchen und einem kleinen Kloster vorbeigekommen waren,
@@ -1896,7 +1896,7 @@ Wir schlugen nicht fern von der Furt am linken Ufer des Flusses das Lager auf.
 Da die Dschraba uns nicht gefolgt waren, so fand sich dort leicht ein Bootsmann,
 der mit seinem Lederboot nach der verlorenen Last fahnden wollte. Als der letzte
 Dschraba drüben verschwunden war, fürchteten auch die Schiffer dort nichts mehr
-und suchten mit Stangen und Yaken nach den verlorenen Kisten — doch vergebens.
+und suchten mit Stangen und Haken nach den verlorenen Kisten — doch vergebens.
 Der Strom war zu reißend und das Wasser infolge des Regens der letzten Nacht zu
 trüb. Der Dsa tschü gab nichts mehr heraus.
 
@@ -3383,9 +3383,6 @@ chinesische Stadt hinabstieg — liessen diese Zeit rasch verstreichen.
 ::::
 
 :::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1400]: [Der Gesamtwert des Handels auf dem Wege von Osten her beträgt jährlich etwa 550&nbsp;000 Mark, hiervon kommen mehr als zwei Drittel auf den Tee. Ich fand drei verschiedene Arten Tee, die aber der Transportkosten wegen nicht sehr verschieden im Preise standen. Je eine halbe Yaklast (40 cättie) war in ein Stück roher Yakhaut gepreßt und genäht. Die Teemenge, die während meines Besuches täglich an Dscherku vorbeigetragen wurde, berechnete ich auf 4000 bis 5000 kg, wozu 70 bis 80 Ochsen nötig sind. Dabei ließ ich mir erzählen, daß wegen des Krieges bei Li tang der Handel mit Se tschuan sehr darniederliege. Se tschuan-Reis war nur in geringer Menge angekommen und kostete 19 bis 20 Rupien die halbe Last (= 40 cättie), während dasselbe Gewicht Kan tschou-Reis, der aus Kan su über Hsi ning gebracht wird, nur 15 Rupien kostete. Brauner Zucker kostete eine Rupie das Pfund. Er wird aus Se tschuan und Yq'un nan hierher gebracht. Auch Salz ist ziemlich teuer; an seiner Statt wird vielfach Salpeter in den Tee geworfen.]{.footnote}
 

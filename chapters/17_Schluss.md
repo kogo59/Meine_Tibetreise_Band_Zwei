@@ -819,9 +819,6 @@ bei jeder Mahlzeit. Was ist das? (Die Zunge.)<br /><br />
 
 :::
 
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^1700]: [Auf Schlauchflößen beginnt bei diesem Kwan men auf dem Sang tschü die Verfrachtung der tibetischen Wolle nach abwärts. Seit 1900 hat der Handel mit der nordtibetischen Wolle sehr bedeutende Formen angenommen und die Preise für die rohe Wolle sind dadurch in ganz Kansu mit einem Male in die Höhe geschnellt. Der Yang hang, die Agenturen der fremden Exportfirmen, sind aber dadurch nicht etwa beim Volke beliebt geworden, im Gegenteil, da gleichzeitig alle Lebensmittel in ständigem Steigen begriffen sind, so wird ihnen und auch mit Recht die Schuld dafür in die Schuhe geschoben.]{.footnote}
 
 [^1701]: [Unter der Verwaltung des Tsing schui-Mandarins befindet sich eine Tagereise weiter nördlich der wichtige und betriebsame Flecken Tsch‘ang kia tschwan, in dem nur Hui hui wohnen und in dem der oberste Ahun der ganzen Gegend seinen Wohnsitz hat.<br />Im Tsing schui-Bezirk sah ich zum letzten Male eine verschleierte Chinesin. Die Sitte, daß eine junge Frau in den ersten Jahren ihrer Ehe einen schwarzen Schleier vor dem Gesicht tragen muß, wenn sie sich in der Öffentlichkeit zeigt, ist im übrigen im Bezirk von Te‘in tschou noch so häufig wie im Hsi ning fu.]{.footnote}

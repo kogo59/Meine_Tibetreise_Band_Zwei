@@ -2267,8 +2267,6 @@ nicht den Schutz der europäischen Hygiene!
 :::
 
 
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^1200]: [Orthographisch geschrieben: dschag ba.]{.footnote}
 
 [^1201]: [Es war der Oberlauf des Flusses, den wir in der Woche vor dem Überfall überschritten hatten.. Er war inzwischen erstaunlich klein geworden. Erst jetzt merkte ich, daß es nicht der Yang tse kiang war, sondern der Naptschitai ulan muren der Ts‘aidam-Mongolen und der tibetische Tschü mar.]{.footnote}

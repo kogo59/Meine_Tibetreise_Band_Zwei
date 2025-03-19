@@ -472,7 +472,7 @@ aber hatten herabstürzende Regenmassen den Weg in einer kleinen Klamm so
 vollkommen weggewaschen, daß nur noch Fußgänger und auch diese nur mit Händen
 und Füßen kletternd durchkamen. Hilflos standen wir mit den Pferden vor dem
 neuen Hindernis. Todmüde legten sich die Tiere mit den Lasten auf dem Rücken auf
-den schmalen Pfad und auf die nächsten Äckerchen. Bis neue Leute und Yaken,
+den schmalen Pfad und auf die nächsten Äckerchen. Bis neue Leute und Haken,
 Bohlen und Beile gefunden waren, um die kaiserliche Heerstraße zu reparieren,
 war es dunkel geworden, und tief in der Nacht erst erreichte die Karawane Ort
 und Gasthaus Senggersung. Zu 9 km hatten wir an diesem Tage fünfzehn lange
@@ -1936,7 +1936,7 @@ stand ein niederer, breiter Tisch mit vielen Gerste- und Wasserschalen aus
 Bronze. Die Feuerstelle war wie immer im Somo-Land eine Bodenmulde, überdacht
 von einem breit ausladenden, eisengeschmiedeten Dreifuß, der die zwanzig Pfund
 schweren und wie Waschkessel großen Teebecken trug. Auch sie waren aus Bronze
-und oben, innen wie außen, mit Yakenkreuzen und anderen Symbolen hübsch
+und oben, innen wie außen, mit Hakenkreuzen und anderen Symbolen hübsch
 ornamentiert. Farbige gedrehte Holzgefäße für Butter und Tsamba, mit Steinen
 verzierte Gabelgewehre und an einem Zeltpfosten rotbraun verschossene, falsche
 Frauenzöpfe, mit zehn Reihen dunkelroter Korallen gespickt und umwunden mit
@@ -3011,9 +3011,6 @@ Höllengottes weniger gepeinigt.
 ::::
 
 :::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1500]: [Bekanntlich war der Hauptzweck des Besuchs, den Tobden Dalai Lama in Peking 1908 machte, für sich und seine Regierung die unmittelbare Berichterstattung an den Thron und direkte Unterstellung unter Peking mit Umgehung des chinesischen, in Lhasa wohnenden Residenten und des Gouverneurs von Tscheng tu fu zu erwirken. Die mandschurische Regierung hat sich aber dazu nie entschließen können und betrachtete alles Land westwärts von Se tschuan als Domäne dieser Provinz.]{.footnote}
 

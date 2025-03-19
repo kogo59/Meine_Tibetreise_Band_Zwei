@@ -2230,9 +2230,6 @@ Heimweg.
 
 :::
 
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^1600]: [Als ob die Westwinde des Winters im Windschutz der Berge und in den ausklingenden Luftwirbeln, in der Rückströmung nach dem Anprall an der gegenüberliegenden Talwand, sich ihrer Staubmassen entledigt hätten (s. [Abb. 13](#b276)).]{.footnote}
 
 [^1601]: [Der Sinn der einfachen Handlung ist ohne weiteres als eine Legende aus dem Leben des wandernden Mönchs Milaraspa (nach Grünwedel, Mythologie des Buddhismus, im Jahre 1038 geboren und 1122 an der Grenze von Nepal gestorben) zu erkennen. Daß alle Personen doppelt dargestellt wurden, scheint keinen weiteren Zweck zu haben, als das Tanzbild lebhafter zu gestalten und es allen Zuschauern deutlich zu machen.]{.footnote}

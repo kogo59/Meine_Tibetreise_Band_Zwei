@@ -2629,9 +2629,6 @@ Häuser von *Dscherku ndo*.
 
 :::
 
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^1300]: [Erst in Peking und fast ein ganzes Jahr später war ihm aber vom Kaiser der Titel eines Bannerfürsten I. Klasse (Hoschu Ts‘in wang) verliehen worden.]{.footnote}
 
 [^1301]: [Der fünfte Dalai Lama insbesondere hat es verstanden, sich als eine ganz besondere Verkörperung hinzustellen. Im Dalai Lama soll jetzt neben dem Bodhisatva Padmapani noch der Gott des Todes und der große tibetische König Srong btsan sgampo, der 629 den Thron bestieg, endlich sogar der sagenhafte König Gesar verkörpert.sein. [Der rDsche btsun damba von Urga (s. Bd. I, S. 101, Anm. 1) gilt nebenbei als Verkörperung des klugen Pferdes von König Gesar.]]{.footnote}

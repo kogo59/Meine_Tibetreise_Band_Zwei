@@ -1831,9 +1831,6 @@ gehängt.
 
 :::
 
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^1100]: [Wenn ein geachteter Gast sich verabschiedet, so müssen stets alle Familienmitglieder zuerst hinauseilen, damit der Gast als letzter die Yurte verläßt.]{.footnote}
 
 [^1101]: [Man gibt sie gerne den Dienstboten, da diese von der ranzigen weniger essen.]{.footnote}
