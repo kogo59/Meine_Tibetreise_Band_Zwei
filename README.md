@@ -1,6 +1,6 @@
 # Meine Tibetreise. Zweiter Band.
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/235768896-873dff4a-cec3-413a-92ed-eedb4ee8e632.jpg">
+<img align="right" width="200" src="https://user-images.githubusercontent.com/13177792/235768896-873dff4a-cec3-413a-92ed-eedb4ee8e632.jpg">
 
 This is a git repository of the source files for the book "Meine Tibetreise von Dr. Albert Tafel. Zweiter Band."
 
